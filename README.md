@@ -3,6 +3,7 @@
 * [Youtube Playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) & [lecture notes](https://www.davidsilver.uk/teaching/) DeepMind x UCL by David Silver 2015
 * [Youtube Playlist](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) DeepMind x UCL by Hado van Hasselt 2018
 * [Youtube Playlist](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) DeepMind x UCL by Hado van Hasselt 2021
+* [Youtube Playlist](https://www.youtube.com/watch?v=JeDY8uECPgk&list=PLmmS6L8GBdcfwKPlNPWDkxyDicLKhUoQe&index=1&t=1270s) Friedrich-Alexander-University
 
 <br>
 
