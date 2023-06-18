@@ -4,6 +4,8 @@
 - [Youtube Playlist](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) DeepMind x UCL by Hado van Hasselt 2018
 - [Youtube Playlist](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) DeepMind x UCL by Hado van Hasselt 2021
 - [Youtube Playlist](https://www.youtube.com/watch?v=JeDY8uECPgk&list=PLmmS6L8GBdcfwKPlNPWDkxyDicLKhUoQe&index=1&t=1270s) Friedrich-Alexander-University
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) CS287 Advanced Robotics at UC Berkeley Fall 2019 by Pieter Abbeel
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) Foundations of Deep RL by Pieter Abbeel
 
 <br>
 
@@ -19,4 +21,9 @@
 - [Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt) Deep RL Course
 - [Medium](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) Simple Reinforcement Learning with Tensorflow
 - [Neptune AI](https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses) Best Reinforcement Learning Tutorials, Examples, Projects, and Courses
-- [Book](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf)
+- [Book](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) Reinforcement Learning An Introduction by Sutton and Barto
+
+<br>
+
+- [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/index.html) Documentation
+- [Gymnasium](https://gymnasium.farama.org/) Documentation
