@@ -21,7 +21,7 @@
 - [Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction?fw=pt) Deep RL Course
 - [Medium](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0) Simple Reinforcement Learning with Tensorflow
 - [Neptune AI](https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses) Best Reinforcement Learning Tutorials, Examples, Projects, and Courses
-- [Book](https://www.andrew.cmu.edu/course/10-703/textbook/BartoSutton.pdf) Reinforcement Learning An Introduction by Sutton and Barto
+- [Books & Articles](https://drive.google.com/drive/folders/1LnsGLZ3VJ6iS5S3JB7zLu1RfEoYdnp8l?usp=drive_link) on Reinforcement Learning
 
 <br>
 
