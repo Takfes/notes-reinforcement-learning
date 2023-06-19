@@ -1,11 +1,12 @@
 ## Resources
 
-- [Youtube Playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) & [lecture notes](https://www.davidsilver.uk/teaching/) DeepMind x UCL by David Silver 2015
+- [Youtube Playlist](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) DeepMind x UCL by David Silver 2015 & [Lecture Notes](https://www.davidsilver.uk/teaching)
 - [Youtube Playlist](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb) DeepMind x UCL by Hado van Hasselt 2018
 - [Youtube Playlist](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) DeepMind x UCL by Hado van Hasselt 2021
 - [Youtube Playlist](https://www.youtube.com/watch?v=JeDY8uECPgk&list=PLmmS6L8GBdcfwKPlNPWDkxyDicLKhUoQe&index=1&t=1270s) Friedrich-Alexander-University
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF) CS287 Advanced Robotics at UC Berkeley Fall 2019 by Pieter Abbeel
 - [Youtube Playlist](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0) Foundations of Deep RL by Pieter Abbeel
+- [Youtube Playlist](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr) Reinforcement Learning By the Book by Mutual Information
 
 <br>
 
