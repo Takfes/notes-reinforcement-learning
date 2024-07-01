@@ -9,10 +9,10 @@
 - [Foundations of Deep RL by Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNymuBM9RdmB3Z9N5-0IlY0)
 - [Reinforcement Learning By the Book by Mutual Information](https://www.youtube.com/playlist?list=PLzvYlJMoZ02Dxtwe-MmH4nOB5jYlMGBjr)
 
-
 ### Blogs
 
 - [Hugging Face course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Getting started with gymnasium](https://blog.paperspace.com/getting-started-with-openai-gym/)
 - [Gymnasium](https://gymnasium.farama.org/) Documentation
 - [StableBaselines3](https://stable-baselines3.readthedocs.io/en/master/index.html) Documentation
+- [Integrating Deep Reinforcement Learning Networks with Health System Simulations](https://github.com/MichaelAllen1966/learninghospital)
