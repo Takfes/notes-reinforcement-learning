@@ -1,6 +1,8 @@
 ## Policy vs Value Based Methods
 
 - [Hugging Face Resources](https://huggingface.co/learn/deep-rl-course/unit1/two-methods?fw=pt)
+- [Code Policy Iteration](https://www.youtube.com/watch?v=RlugupBiC6w)
+- [Code Value Iteration](https://www.youtube.com/watch?v=hUqeGLkx_zs)
 
 ---
 
