@@ -11,6 +11,7 @@
 
 ### Blogs
 
+- [Github 10 X Reinforcement Learning Repos](https://www.kdnuggets.com/10-github-repositories-master-reinforcement-learning)
 - [Hugging Face course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 - [Getting started with gymnasium](https://blog.paperspace.com/getting-started-with-openai-gym/)
 - [Gymnasium](https://gymnasium.farama.org/) Documentation
